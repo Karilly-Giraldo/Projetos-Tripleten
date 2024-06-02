@@ -1,6 +1,6 @@
 #  Bootcamp QA
 
- <img src="imagem/logo.png">
+ <img src="C:\Users\Usuário\Documents\Karilly-projects\Imagem\logo.png">
 
  #### Sprint 1 - Noções básicas de teste
 
