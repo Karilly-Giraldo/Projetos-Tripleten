@@ -1,10 +1,11 @@
 #  Bootcamp QA
 
- <img src="C:\Users\Usuário\Documents\Karilly-projects\Imagem\logo.png">
+ <img src="Imagem\logo.png">
 
  #### Sprint 1 - Noções básicas de teste
 
- - Introdução à análise de QA
+ - Introdução à análise de QAgit add .
+ - git
  - Desenvolvimento e teste
  - Introdução aos checklists
  - Relatórios de bugs
