@@ -1,6 +1,6 @@
 #  Bootcamp QA
 
- <img src="imagem/Logo-Tripleten.png">
+ <img src="imagem/logo.png">
 
  #### Sprint 1 - Noções básicas de teste
 
